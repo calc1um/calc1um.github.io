@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: 《麒麟日记》
+author: 一个失落的灵魂
+email: tb99999@protonmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  飘荡在中国
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,8 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: 王帅
+  tagline: 第三世界浪子
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -48,6 +46,8 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
+
+remote_theme: thelehhman/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
