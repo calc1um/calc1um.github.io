@@ -10,8 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: 王帅
-  tagline: 第三世界浪子
+  name: 一个失落的灵魂
+  tagline: 飘荡在中国
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
